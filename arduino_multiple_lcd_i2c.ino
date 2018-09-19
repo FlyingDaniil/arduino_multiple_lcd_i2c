@@ -1,3 +1,5 @@
+//v1.0
+//t.me/arduino_io
 //подключаем библиотеки
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
